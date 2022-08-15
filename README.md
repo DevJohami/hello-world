@@ -1,2 +1,2 @@
 # hello-world
-Creating a Git Repository 
+Creating a Git Repository Lab
